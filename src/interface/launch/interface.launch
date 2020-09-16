@@ -1,0 +1,5 @@
+<launch>
+    <node name="Robot2Unity" pkg="interface" 	type="Robot2Unity.py" output = "screen" 	launch-prefix="gnome-terminal --command"/>
+    <node name="Unity2Robot" pkg="interface" 	type="Unity2Robot.py" output="screen"  		launch-prefix="gnome-terminal --command"/>
+    <node name="Robot2Unity_IK" pkg="interface" type="Robot2Unity_IK.py" output="screen"  	launch-prefix="gnome-terminal --command"/>
+</launch>
