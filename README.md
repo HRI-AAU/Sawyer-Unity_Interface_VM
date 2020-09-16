@@ -45,3 +45,13 @@ cd ~/ros_ws/
 ```
 
 
+Considerations
+--------------
+If using another robot you must change the S/N in the intera.sh files
+
+If using other intera.sh files make sure tu change the IP in the file
+
+This VM has been tested with VirtualBox 6.0.8 r130520
+  - 2GB Ram, 2 CPU (more resources are desired)
+  - Bridge network adapter
+  - Display->Screen->3D/2D acceleration must be disabled!
