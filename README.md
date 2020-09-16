@@ -1,7 +1,7 @@
 # Sawyer-Unity_Interface Virtual Machine
 
 This VM is used as an interface between a Physical or Simulated Sawyer robot with a unity project.
-The VM is abailable to plug and play, ask @mraau or @carlos-biru.
+The VM is aVailable to plug and play, ask @mraau or @carlos-biru.
 
 ![Image](./screen.PNG)
 
