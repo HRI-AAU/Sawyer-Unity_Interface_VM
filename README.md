@@ -36,7 +36,7 @@ cd ~/ros_ws/
 ./RunInterface_Real.sh
 ```
 
-When using the simulator, you can run the file "RunInterface_SIMULATOR.sh" when you are using the real robot
+When using the simulator, you can run the file "RunInterface_SIMULATOR.sh"
 ```sh
 cd ~/ros_ws/
 ./RunInterface_SIMULATOR.sh
