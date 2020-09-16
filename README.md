@@ -3,6 +3,8 @@
 This VM is used as an interface between a Physical or Simulated Sawyer robot with a unity project.
 The VM is abailable to plug and play, ask @mraau or @carlos-biru.
 
+![Image](./screen.PNG)
+
 Installing
 ----------
 Only if you need to install your own VM follow the next steps.
