@@ -7,7 +7,7 @@ The VM is available to plug and play, ask @mraau or @carlos-biru.
 
 Installing
 ----------
-Only if you need to install your own VM follow the next steps.
+Only if you need to install your own VM from scratch follow the "Installing" steps.
 
 Installing intera:
 https://sdk.rethinkrobotics.com/intera/Workstation_Setup
