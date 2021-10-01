@@ -48,7 +48,7 @@ cd ~/ros_ws/
 ./RunInterface_SIMULATOR.sh
 ```
 
-To move the real robot you need to first enable their joints. You can do that by runing:
+To move the real robot you need to first enable their joints. You must do it once by runing:
 ```sh
 cd ~/ros_ws
 ./intera.sh
