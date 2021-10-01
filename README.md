@@ -29,6 +29,9 @@ cd ~/ros_ws/src/interface/src/
 chmod +x *.py
 ```
 
+
+
+
 How to use it
 -------------
 When running the intera environment you have to run the file ./intera.sh it contains the S/N of the robot and the IP of the VM, and after you can run the scripts.
@@ -45,6 +48,12 @@ cd ~/ros_ws/
 ./RunInterface_SIMULATOR.sh
 ```
 
+To move the real robot you need to first enable their joints. You can do that by runing:
+```sh
+cd ~/ros_ws
+./intera.sh
+rosrun intera_interface enable_robot.py -e
+```
 
 Considerations
 --------------
